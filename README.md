@@ -24,7 +24,9 @@ I used Bootstrap validation classes to show valid and invalid fields with feedba
 
 
 ## Task 4
-I created a registration form with personal information, password fields, gender, hobbies, and country selection. I also added validation and Register and Reset buttons.
+In this task, I created a registration form with personal information, password fields, gender, hobbies, and country selection. I used Bootstrap classes and HTML5 validation. I also added JavaScript to display validation feedback after submitting the form.
+<img width="1200" height="817" alt="image" src="https://github.com/user-attachments/assets/015594c4-5c95-41d5-8925-1ec3b2f88436" />
+
 
 <img width="1800" height="750" alt="image" src="https://github.com/user-attachments/assets/2930822c-5190-4e7f-98df-e8fb5b9c127d" />
 
