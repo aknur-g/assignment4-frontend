@@ -1,5 +1,4 @@
 # assignment4-frontend
-# Assignment 4: Forms and Validation
 
 ## Task 0
 In this task, I created a basic contact form with name, email, message, and a submit button.
